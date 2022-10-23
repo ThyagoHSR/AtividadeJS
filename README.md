@@ -2,4 +2,4 @@ Atividade onde tivemos que desenvolver uma página em HTML considendando pergunt
 inserir elementos no array
 remover elementos no array
 inverter ordem do array
-listaf todos os array
+listar todos os arrays
